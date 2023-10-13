@@ -12,7 +12,7 @@ public class FibonacciTest {
             actual[i] = actual[i - 1] + actual[i - 2];
         }
         for (int i = 0; i < 10; i++) {
-            System.out.println("Fibonacci[" + i + "] = " + actual[i]);
+            System.out.println(actual[i]);
         }
 
         assertArrayEquals(expected, actual);
