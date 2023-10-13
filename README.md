@@ -5,8 +5,8 @@ Unit Test to verify the first ten numbers in a fibonacci sequence
 
 
 ### Group Members
-Bassey Emmanuel
-Emma-Leke Omotade Peace
-Jack Bliss Tamunosaki
-Chidebe Asher Oluebubechukwu
-Isaac-Ishamli Patrick Bekeh
+-Bassey Emmanuel
+-Emma Leke Omotade Peace
+-Jack Bliss Tamunosaki
+-Chidebe Asher Oluebubechukwu
+-Isaac Ishamli Patrick Bekeh
